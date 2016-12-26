@@ -1,0 +1,15 @@
+{
+    "name": "honfei/flysystem-qcloud-cos",
+    "description": "qcloud col file store for laravel5",
+    "require": {
+        "tencentyun-api/qcloudapi-sdk-php": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hinet",
+            "email": "63603636@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
